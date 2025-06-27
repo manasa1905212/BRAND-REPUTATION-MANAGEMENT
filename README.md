@@ -14,4 +14,4 @@
 
 The task focused on managing and maintaining a positive brand image online and offline. It involves monitoring public perception, responding to feedback, and building customer trust. The aim is to protect the brand’s credibility and enhance its long-term reputation.
 
-Output: 
+Output: [Brand_Reputation_Management_Task4_CODTECH.docx](https://github.com/user-attachments/files/20943522/Brand_Reputation_Management_Task4_CODTECH.docx)
